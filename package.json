@@ -1,0 +1,33 @@
+{
+  "name": "react-native-react-native-me-printing",
+  "title": "React Native React Native Me Printing",
+  "version": "1.0.0",
+  "description": "Android react native SDK for the New Land POS printing device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-react-native-me-printing.git",
+    "baseUrl": "https://github.com/github_account/react-native-react-native-me-printing"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Amadosi Odaibo",
+    "email": "odaiboamadosi@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
